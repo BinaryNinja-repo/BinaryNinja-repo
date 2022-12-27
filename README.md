@@ -18,6 +18,7 @@
 </p>
 <br>
 
+<p align="center">
 [//]: # (<img src="https://github-readme-activity-graph.cyclic.app/graph?username=BinaryNinja-repo&theme=xcode">)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BinaryNinja-repo&theme=gruvbox">
-
+</p>
