@@ -1,5 +1,4 @@
-<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖</h1>
-<p align="center" style="font-size: 42px">🅰🅻🅴🆇🅰🅽🅳🆁 🅰. 🅰🅼🅴🅻'🅺🅸🅽<p>
+<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 <br>🅰🅻🅴🆇🅰🅽🅳🆁 🅰. 🅰🅼🅴🅻'🅺🅸🅽</h1>
 
 <h3 align="center">Backend Developer</h3>
 <p align="center">
