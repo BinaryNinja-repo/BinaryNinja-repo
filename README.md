@@ -4,7 +4,7 @@
 
 <h3 align="center">Backend Developer</h3>
 <p align="center">
- <a href="https://www.linkedin.com/in/aleksandr-amelkin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 20px"/></a>
+ <a href="https://www.linkedin.com/in/aleksandr-amelkin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
  <a href="https://tlgg.ru/GMaster"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
  <br>
  <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=BinaryNinja-repo&color=green" />
