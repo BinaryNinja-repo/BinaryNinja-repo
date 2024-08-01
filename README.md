@@ -1,6 +1,6 @@
 <img align="right" src="https://www.codewars.com/users/BinaryNinja/badges/small">
 <br><br>
-<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 <br>🅰🅻🅴🆇🅰🅽🅳🆁 🅰. 🅰🅼🅴🅻'🅺🅸🅽</h1>
+<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 <br>🅰🅻🅴🆇🅰🅽🅳🅴🆁 🅰. 🅰🅼🅴🅻🅺🅸🅽</h1>
 
 <h3 align="center">Backend Developer</h3>
 <p align="center">
